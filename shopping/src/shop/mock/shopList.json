@@ -1,0 +1,224 @@
+[
+    {
+        "type": "果味",
+        "list": [
+            {
+                "id": 1,
+                "tradeName": "梨花带雨",
+                "price": "8.8",
+                "num": 0
+            },
+            {
+                "id": 2,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 3,
+                "tradeName": "奇异果",
+                "price": "9.9",
+                "num": 0
+            },
+            {
+                "id": 4,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 5,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 6,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    },
+    {
+        "type": "蔬菜",
+        "list": [
+            {
+                "id": 7,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 8,
+                "tradeName": "奇异果",
+                "price": "9.9",
+                "num": 0
+            },
+            {
+                "id": 9,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 10,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 11,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    },
+    {
+        "type": "炒货",
+        "list": [
+            {
+                "id": 12,
+                "tradeName": "梨花带雨",
+                "price": "8.8",
+                "num": 0
+            },
+            {
+                "id": 13,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 14,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 15,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 16,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    },
+    {
+        "type": "点心",
+        "list": [
+            {
+                "id": 17,
+                "tradeName": "梨花带雨",
+                "price": "8.8",
+                "num": 0
+            },
+            {
+                "id": 18,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 19,
+                "tradeName": "奇异果",
+                "price": "9.9",
+                "num": 0
+            },
+            {
+                "id": 20,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 21,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 22,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    },
+    {
+        "type": "粗茶",
+        "list": [
+            {
+                "id": 23,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 24,
+                "tradeName": "奇异果",
+                "price": "9.9",
+                "num": 0
+            },
+            {
+                "id": 25,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 26,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 27,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    },
+    {
+        "type": "淡饭",
+        "list": [
+            {
+                "id": 28,
+                "tradeName": "梨花带雨",
+                "price": "8.8",
+                "num": 0
+            },
+            {
+                "id": 29,
+                "tradeName": "红枣500g",
+                "price": "6.6",
+                "num": 0
+            },
+            {
+                "id": 30,
+                "tradeName": "黄豆芽300g",
+                "price": "1.38",
+                "num": 0
+            },
+            {
+                "id": 31,
+                "tradeName": "昆明芦笋250g",
+                "price": "5.40",
+                "num": 0
+            },
+            {
+                "id": 32,
+                "tradeName": "紫长茄450g",
+                "price": "1.38",
+                "num": 0
+            }
+        ]
+    }
+]
